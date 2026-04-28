@@ -7,3 +7,5 @@ vite.err
 .env
 .env.*
 !.env.example
+
+.vercel
